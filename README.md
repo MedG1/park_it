@@ -2,7 +2,7 @@
 
 park_it is an application that makes looking for parking area easier and more automated.
 
-<Strong>Features</strong>:
+<b>Features</b>:
 - Select a destination and get nearby parkings
 - See which parking spots are free
 - remotely reserve a parking spot
