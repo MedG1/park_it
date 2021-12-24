@@ -1,5 +1,7 @@
 Les étapes d'avancement du code : 
+
 Pendant chaque étape j'ai réalisé en même temps le style et la mise en forme des différentes composantes (boutons, cards,rectangles,textes etc..).
+
 1)développement de la page "parking_selection.dart" : 
 -réalisation du bouton de triage (sort by).
 -dans components,réaliser le modèle de la barre de sélection "selection_card.dart"
